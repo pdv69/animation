@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Animation
+#
+
+projectname: Animation
+vendorid: com.mycompany
+mainmodule: com.mycompany.animation
